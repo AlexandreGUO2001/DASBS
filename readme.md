@@ -1,9 +1,15 @@
 # Discrete Adjoint Schrödinger Bridge Sampler (DASBS)
 
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2602.08243)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/WeiGuo01/status/2033580991772610794)
+
 This is the official implementation of:
 
 > **Discrete Adjoint Schrödinger Bridge Sampler**
+> 
 > Wei Guo, Yuchen Zhu, Xiaochen Du, Juno Nam, Yongxin Chen, Rafael Gómez-Bombarelli, Guan-Horng Liu, Molei Tao, Jaemoo Choi.
+> 
 > *ICML 2026.*
 
 DASBS extends adjoint matching to discrete state spaces via a unified Schrödinger bridge / stochastic optimal control framework for CTMCs. The repository contains the code used to produce the main results in the paper.
